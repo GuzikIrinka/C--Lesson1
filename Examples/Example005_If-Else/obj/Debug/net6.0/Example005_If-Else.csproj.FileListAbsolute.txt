@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.AssemblyInfo.cs
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\bin\Debug\net6.0\Example005_If-Else.exe
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\bin\Debug\net6.0\Example005_If-Else.deps.json
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\bin\Debug\net6.0\Example005_If-Else.runtimeconfig.json
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\bin\Debug\net6.0\Example005_If-Else.dll
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\bin\Debug\net6.0\Example005_If-Else.pdb
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.dll
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\refint\Example005_If-Else.dll
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.pdb
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\Example005_If-Else.genruntimeconfig.cache
+D:\GeekBrains\C#\семинар 1\Examples\Example005_If-Else\obj\Debug\net6.0\ref\Example005_If-Else.dll
